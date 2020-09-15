@@ -1,4 +1,4 @@
-# CSharp Checksum [![CodeFactor](https://www.codefactor.io/repository/github/shiroechi/csharp-checksum/badge)](https://www.codefactor.io/repository/github/shiroechi/csharp-checksum)
+# CSharpChecksum [![CodeFactor](https://www.codefactor.io/repository/github/shiroechi/csharpchecksum/badge)](https://www.codefactor.io/repository/github/shiroechi/csharpchecksum)
 
 A simple file checksum for windows using [Portable.BouncyCastle](https://github.com/onovotny/bc-csharp) for hash function.
 
