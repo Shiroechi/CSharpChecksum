@@ -345,6 +345,5 @@ namespace CSharpChecksum.UserControls
 		}
 
 		#endregion Private Method
-
 	}
 }
